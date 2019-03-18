@@ -16,8 +16,6 @@ description = {
 
 dependencies = {
    "torch >= 7.0",
-   "luaffi",
-   "moses >= 1.0"
 }
 
 build = {
