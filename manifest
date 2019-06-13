@@ -1,7 +1,42 @@
 commands = {}
 modules = {}
 repository = {
+   cudnn = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+   cunn = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+   cutorch = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    cv = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+   nn = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+   rnn = {
       ["scm-1"] = {
          {
             arch = "rockspec"
