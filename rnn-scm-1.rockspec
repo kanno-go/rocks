@@ -2,7 +2,7 @@ package = "rnn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/gkanno/rnn",
+   url = "git://github.com/kanno-go/rnn",
    branch = "2017-06-01"
 }
 
@@ -11,7 +11,7 @@ description = {
    detailed = [[
 A library to build RNNs, LSTMs, GRUs, BRNNs, BLSTMs, and so forth and so on.
    ]],
-   homepage = "https://github.com/gkanno/cutorch",
+   homepage = "https://github.com/kanno-go/cutorch",
    license = "BSD"
 }
 

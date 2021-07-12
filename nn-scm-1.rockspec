@@ -2,7 +2,7 @@ package = "nn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/gkanno/nn.git",
+   url = "git://github.com/kanno-go/nn.git",
    branch = "2017-06-01"
 }
 
@@ -10,7 +10,7 @@ description = {
    summary = "Neural Network package for Torch",
    detailed = [[
    ]],
-   homepage = "https://github.com/gkanno/nn",
+   homepage = "https://github.com/kanno-go/nn",
    license = "BSD"
 }
 

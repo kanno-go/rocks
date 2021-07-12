@@ -2,7 +2,7 @@ package = "cutorch"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/gkanno/cutorch.git",
+   url = "git://github.com/kanno-go/cutorch.git",
    branch = "2017-06-01"
 }
 
@@ -10,7 +10,7 @@ description = {
    summary = "Torch CUDA Implementation",
    detailed = [[
    ]],
-   homepage = "https://github.com/gkanno/cutorch",
+   homepage = "https://github.com/kanno-go/cutorch",
    license = "BSD"
 }
 

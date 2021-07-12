@@ -2,7 +2,7 @@ package = "cunn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/gkanno/cunn.git",
+   url = "git://github.com/kanno-go/cunn.git",
    branch = "2017-06-01"
 }
 
@@ -10,7 +10,7 @@ description = {
    summary = "Torch CUDA Neural Network Implementation",
    detailed = [[
    ]],
-   homepage = "https://github.com/gkanno/cunn",
+   homepage = "https://github.com/kanno-go/cunn",
    license = "BSD"
 }
 
