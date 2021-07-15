@@ -3,7 +3,7 @@ version = "scm-1"
 
 source = {
    url = "git://github.com/kanno-go/cudnn.torch.git",
-   branch = "R7"
+   branch = "R8"
 }
 
 description = {
